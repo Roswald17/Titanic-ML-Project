@@ -23,6 +23,7 @@ pandas
 scikit-learn
 numpy
 jupyter (optional)
+matplotlib
 
 ### Contact
 For questions or contributions, reach out to roswald.adamaheto1@gmail.com.
